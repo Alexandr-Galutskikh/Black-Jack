@@ -1,1 +1,1 @@
-# Black-Jack
+Логика игры в black-jack
